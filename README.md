@@ -29,7 +29,7 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 - **Reading**:
   - [Understanding Cargo](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html)
 - **Video**:
-  - [Cargo: The Rust Build Tool](https://www.youtube.com/watch?v=cS5QPd4BiN0) by Let's Get Rusty
+  - [Cargo: The Rust Build Tool(Not Available)](https://www.youtube.com/watch?v=cS5QPd4BiN0) by Let's Get Rusty
 
 ---
 
@@ -44,7 +44,7 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 - **Reading**:
   - [Substrate Developer Hub](https://substrate.dev/)
 - **Video**:
-  - [Building Blockchains with Substrate](https://www.youtube.com/watch?v=IYzhnVhfOB0) by Parity Technologies
+  - [Building Blockchains with Substrate(Not Available)](https://www.youtube.com/watch?v=IYzhnVhfOB0) by Parity Technologies
 
 #### **Session 2: Real-World Applications of Rust**
 
@@ -55,7 +55,7 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 - **Reading**:
   - [Rust in Production](https://www.rust-lang.org/production)
 - **Video**:
-  - [Why Discord is Switching from Go to Rust](https://www.youtube.com/watch?v=ve3NU0Ppo3I) by Systems with JT
+  - [Why Discord is Switching from Go to Rust(Not Available)](https://www.youtube.com/watch?v=ve3NU0Ppo3I) by Systems with JT
 
 ---
 
@@ -70,7 +70,7 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 - **Reading**:
   - [Getting Started with Rust](https://www.rust-lang.org/learn/get-started)
 - **Video**:
-  - [Rust Setup for Visual Studio Code](https://www.youtube.com/watch?v=Y4nJ1QyWmCo) by Dev Diaries
+  - [Rust Setup for Visual Studio Code(Not Available)](https://www.youtube.com/watch?v=Y4nJ1QyWmCo) by Dev Diaries
 
 #### **Session 2: Writing Your First Rust Program**
 
@@ -81,7 +81,7 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 - **Reading**:
   - [Hello, Cargo!](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html)
 - **Video**:
-  - [Your First Rust Program](https://www.youtube.com/watch?v=FgwZyyGt5mA) by CodeSchool
+  - [Your First Rust Program(Not Available)](https://www.youtube.com/watch?v=FgwZyyGt5mA) by CodeSchool
 
 ---
 
@@ -98,7 +98,7 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
   - [Formatting Code with rustfmt](https://github.com/rust-lang/rustfmt)
   - [Detecting Common Mistakes with Clippy](https://github.com/rust-lang/rust-clippy)
 - **Video**:
-  - [Debugging Rust Applications](https://www.youtube.com/watch?v=UJso9EBb4UA) by Jon Gjengset
+  - [Debugging Rust Applications(Not Available)](https://www.youtube.com/watch?v=UJso9EBb4UA) by Jon Gjengset
 
 #### **Session 2: Efficient Workflow Practices**
 
@@ -109,7 +109,7 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 - **Reading**:
   - [Cargo Make](https://sagiegurari.github.io/cargo-make/)
 - **Video**:
-  - [Improving Rust Workflow](https://www.youtube.com/watch?v=2mD-5Q1zvFk) by FasterthanLime
+  - [Improving Rust Workflow(Not Avaialble)](https://www.youtube.com/watch?v=2mD-5Q1zvFk) by FasterthanLime
 
 ---
 
@@ -124,7 +124,7 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 - **Reading**:
   - [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
 - **Video**:
-  - [The Rust Community](https://www.youtube.com/watch?v=9L8sQNfX_3w) by Steve Klabnik
+  - [The Rust Community(Not Available)](https://www.youtube.com/watch?v=9L8sQNfX_3w) by Steve Klabnik
 
 #### **Session 2: Code and Best Practices**
 
@@ -135,7 +135,7 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 - **Reading**:
   - [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
 - **Video**:
-  - [Idiomatic Rust](https://www.youtube.com/watch?v=bgoOihBb78w) by Carol Nichols
+  - [Idiomatic Rust(Not Available)](https://www.youtube.com/watch?v=bgoOihBb78w) by Carol Nichols
 
 ---
 
@@ -150,7 +150,7 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 - **Reading**:
   - [Using Crates.io Dependencies](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html#using-a-crate-to-get-more-functionality)
 - **Video**:
-  - [Working with Rust Crates](https://www.youtube.com/watch?v=ZC2UZx1pTOo) by Let's Get Rusty
+  - [Working with Rust Crates(Not Available)](https://www.youtube.com/watch?v=ZC2UZx1pTOo) by Let's Get Rusty
 
 #### **Session 2: Selecting the Right Crates**
 
@@ -161,7 +161,7 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 - **Reading**:
   - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 - **Video**:
-  - [Top 10 Rust Libraries](https://www.youtube.com/watch?v=5MzCjyiRhLI) by Kodeco
+  - [Top 10 Rust Libraries(Not Available)](https://www.youtube.com/watch?v=5MzCjyiRhLI) by Kodeco
 
 ---
 
