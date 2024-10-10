@@ -1,4 +1,4 @@
-**Lesson Plan: Mastering Rust Programming from Overview to Code Structure**
+*Lesson Plan: Mastering Rust Programming from Overview to Code Structure**
 
 ---
 

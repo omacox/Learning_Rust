@@ -1,4 +1,8 @@
-# Building a Single-Page Rust Web Application with CRUD Functionality Using MySQL
+## Building a Single-Page Rust Web Application with CRUD Functionality Using MySQL
+
+<img src="https://github.com/omacox/Learning_Rust/rust_mysql_crud/static/index.png" alt="Project Structure" width="500">
+
+## Example
 
 ---
 
@@ -450,7 +454,7 @@ Add logging to your application for debugging purposes.
 Add the `env_logger` crate to your `Cargo.toml`:
 
 ```toml
-env_logger = "0.9"
+env_logger = "0.10"
 log = "0.4"
 ```
 
