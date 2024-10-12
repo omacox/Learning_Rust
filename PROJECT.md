@@ -1,6 +1,6 @@
-## Building a Single-Page Rust Web Application with CRUD Functionality Using MySQL
+# Building a Single-Page Rust Web Application with CRUD Functionality Using MySQL
 
-<img src="https://github.com/omacox/Learning_Rust/blob/main/rust_mysql_crud/static/index.png" alt="Project Structure" width="500">
+![Project Structure](https://github.com/omacox/Learning_Rust/blob/main/rust_mysql_crud/static/index.png)
 
 ## Example
 

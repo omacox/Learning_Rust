@@ -1,4 +1,4 @@
-## Lesson Plan: Mastering Rust Programming from Overview to Code Structure
+# Lesson Plan: Mastering Rust Programming from Overview to Code Structure
 
 ---
 
@@ -6,9 +6,9 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 
 ---
 
-### **Week 1: Overview and Planning for Building Rust Applications**
+## **Week 1: Overview and Planning for Building Rust Applications**
 
-#### **Session 1: Introduction to Rust**
+### **Session 1: Introduction to Rust**
 
 - **Objective**: Understand the fundamentals of Rust and its unique features.
 - **Topics**:
@@ -20,7 +20,7 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 - **Video**:
   - [Rust Programming Language Tutorial for Beginners](https://www.youtube.com/watch?v=zF34dRivLOw) by Traversy Media
 
-#### **Session 2: Planning Rust Applications**
+### **Session 2: Planning Rust Applications**
 
 - **Objective**: Learn how to structure and plan Rust projects effectively.
 - **Topics**:
@@ -33,9 +33,9 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 
 ---
 
-### **Week 2: Rust in Web3 and Real-World Applications**
+## **Week 2: Rust in Web3 and Real-World Applications**
 
-#### **Session 1: Rust in Web3**
+### **Session 1: Rust in Web3**
 
 - **Objective**: Explore Rust's role in blockchain and decentralized applications.
 - **Topics**:
@@ -46,7 +46,7 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 - **Video**:
   - [Building Blockchains with Substrate(Not Available)](https://www.youtube.com/watch?v=IYzhnVhfOB0) by Parity Technologies
 
-#### **Session 2: Real-World Applications of Rust**
+### **Session 2: Real-World Applications of Rust**
 
 - **Objective**: Understand how Rust is used in industry.
 - **Topics**:
@@ -59,9 +59,9 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 
 ---
 
-### **Week 3: Building a Rust Application**
+## **Week 3: Building a Rust Application**
 
-#### **Session 1: Setting Up Your Development Environment**
+### **Session 1: Setting Up Your Development Environment**
 
 - **Objective**: Install and configure tools for Rust development.
 - **Topics**:
@@ -72,7 +72,7 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 - **Video**:
   - [Rust Setup for Visual Studio Code(Not Available)](https://www.youtube.com/watch?v=Y4nJ1QyWmCo) by Dev Diaries
 
-#### **Session 2: Writing Your First Rust Program**
+### **Session 2: Writing Your First Rust Program**
 
 - **Objective**: Create, compile, and run a simple Rust application.
 - **Topics**:
@@ -85,9 +85,9 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 
 ---
 
-### **Week 4: Tools for Streamlined and Efficient Development**
+## **Week 4: Tools for Streamlined and Efficient Development**
 
-#### **Session 1: Essential Rust Tools**
+### **Session 1: Essential Rust Tools**
 
 - **Objective**: Utilize tools to enhance productivity.
 - **Topics**:
@@ -100,7 +100,7 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 - **Video**:
   - [Debugging Rust Applications(Not Available)](https://www.youtube.com/watch?v=UJso9EBb4UA) by Jon Gjengset
 
-#### **Session 2: Efficient Workflow Practices**
+### **Session 2: Efficient Workflow Practices**
 
 - **Objective**: Implement practices for efficient coding.
 - **Topics**:
@@ -113,9 +113,9 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 
 ---
 
-### **Week 5: Best Development Methods**
+## **Week 5: Best Development Methods**
 
-#### **Session 1: Learning from the Best**
+### **Session 1: Learning from the Best**
 
 - **Objective**: Identify industry leaders and their development practices.
 - **Topics**:
@@ -126,7 +126,7 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 - **Video**:
   - [The Rust Community(Not Available)](https://www.youtube.com/watch?v=9L8sQNfX_3w) by Steve Klabnik
 
-#### **Session 2: Code and Best Practices**
+### **Session 2: Code and Best Practices**
 
 - **Objective**: Adopt best coding practices in Rust.
 - **Topics**:
@@ -139,9 +139,9 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 
 ---
 
-### **Week 6: Selecting Methods and Crates**
+## **Week 6: Selecting Methods and Crates**
 
-#### **Session 1: Understanding and Using Crates**
+### **Session 1: Understanding and Using Crates**
 
 - **Objective**: Leverage external libraries effectively.
 - **Topics**:
@@ -152,7 +152,7 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 - **Video**:
   - [Working with Rust Crates(Not Available)](https://www.youtube.com/watch?v=ZC2UZx1pTOo) by Let's Get Rusty
 
-#### **Session 2: Selecting the Right Crates**
+### **Session 2: Selecting the Right Crates**
 
 - **Objective**: Evaluate and choose appropriate crates.
 - **Topics**:
@@ -165,9 +165,9 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 
 ---
 
-### **Week 7: Capstone Project and Summary**
+## **Week 7: Capstone Project and Summary**
 
-#### **Session 1: Capstone Project Planning**
+### **Session 1: Capstone Project Planning**
 
 - **Objective**: Plan a Rust project applying all learned concepts.
 - **Activities**:
@@ -187,7 +187,7 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 
 ---
 
-### **References and Resources**
+## **References and Resources**
 
 - **Official Documentation**:
   - [The Rust Programming Language Book](https://doc.rust-lang.org/book/)
@@ -206,6 +206,6 @@ Welcome to our comprehensive Rust programming course! This lesson plan is design
 
 ---
 
-### **Summary**
+## **Summary**
 
 This course provides an in-depth journey through Rust programming, starting from fundamental concepts to advanced application development. You'll gain insights into Rust's role in modern technologies like Web3, learn how to build efficient and safe applications, and adopt best practices followed by industry experts. By engaging with a mix of readings, videos, and hands-on projects, you'll develop the skills needed to excel in Rust development and contribute to its growing ecosystem.
