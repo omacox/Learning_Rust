@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/Users/omacox/Downloads/code_example/Education/Rust/rust_mysql_crud/target/debug/build/mime_guess-f5a6e76df5d4d24a/out/mime_types_generated.rs
